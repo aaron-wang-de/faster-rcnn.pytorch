@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>PictureData_0924_20_1-368</folder>
+	<filename>0924_20_283.jpg</filename>
+	<path>C:\Users\LXU7EC\Documents\PictureData\PictureData_0924_20_1-368\0924_20_283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>361</ymin>
+			<xmax>1054</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>
