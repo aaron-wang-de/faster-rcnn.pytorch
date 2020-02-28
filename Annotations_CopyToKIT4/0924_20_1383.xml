@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>PictureData_0924_20_1105-1472</folder>
+	<filename>0924_20_1383.jpg</filename>
+	<path>C:\Users\LXU7EC\Documents\PictureData\PictureData_0924_20_1105-1472\0924_20_1383.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>excavator breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>192</ymin>
+			<xmax>979</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>244</ymin>
+			<xmax>1280</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>
