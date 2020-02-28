@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>PictureData_0924_13_1041-1560</folder>
+	<filename>0924_13_1112.jpg</filename>
+	<path>C:\Users\LXU7EC\Documents\PictureData\PictureData_0924_13_1041-1560\0924_13_1112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>128</ymin>
+			<xmax>322</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motor grader</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>149</ymin>
+			<xmax>315</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

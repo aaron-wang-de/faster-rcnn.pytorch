@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>PictureData_0924_13_1561-2080</folder>
+	<filename>0924_13_1885.jpg</filename>
+	<path>C:\Users\LXU7EC\Documents\PictureData\PictureData_0924_13_1561-2080\0924_13_1885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheel loader</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>154</ymin>
+			<xmax>369</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>35</ymin>
+			<xmax>337</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
