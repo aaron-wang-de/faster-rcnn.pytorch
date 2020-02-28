@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>PictureData_0924_13_1-520</folder>
+	<filename>0924_13_254.jpg</filename>
+	<path>C:\Users\LXU7EC\Documents\PictureData\PictureData_0924_13_1-520\0924_13_254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>97</ymin>
+			<xmax>418</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
