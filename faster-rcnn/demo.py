@@ -164,14 +164,16 @@ if __name__ == '__main__':
     raise Exception('There is no input directory for loading network from ' + input_dir)
   load_name = os.path.join(input_dir,
     'faster_rcnn_{}_{}_{}.pth'.format(args.checksession, args.checkepoch, args.checkpoint))
-
+'''
   pascal_classes = np.asarray(['__background__',
                        'aeroplane', 'bicycle', 'bird', 'boat',
                        'bottle', 'bus', 'car', 'cat', 'chair',
                        'cow', 'diningtable', 'dog', 'horse',
                        'motorbike', 'person', 'pottedplant',
                        'sheep', 'sofa', 'train', 'tvmonitor'])
-
+  '''
+  pascal_classes = np.asarray(['__background__', 'truck','excavator', 'wheel loader','bulldozer','dumper', 'person','car'])
+  #pascal_classes = np.asarray(['__background__', 'truck','excavator', 'wheel loader','bulldozer','excavator breaker', 'worker', 'compactor', 'motor grader','crane'])
   # initilize the network here.
   if args.net == 'vgg16':
     fasterRCNN = vgg16(pascal_classes, pretrained=False, class_agnostic=args.class_agnostic)
